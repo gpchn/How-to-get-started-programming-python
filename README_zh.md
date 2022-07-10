@@ -4,3 +4,7 @@
 作者 gpchn (github-programmer-from-china)  
 性别 男♂  
 现居河北邯郸  
+## 制作人员
+**gpchn**  
+**赵先生 .**
+**王女士 巴黎在逃圣母ᵀᴺᵀ**
