@@ -3,4 +3,4 @@
 ## 关于作者
 作者 gpchn (github-programmer-from-china)  
 性别 男♂  
-居住地 河北邯郸  
+现居河北邯郸  
