@@ -3,7 +3,7 @@
 
 ![Github last commit](https://img.shields.io/github/last-commit/gpchn/How-to-get-started-programming-python)
 ![Hex.pm](https://img.shields.io/hexpm/l/plug)
-![started date](https://img.shields.io/badge/started-date-2022-07-10-brightgreen)
+![started date](https://img.shields.io/badge/started%20date-2022%2007%2010-brightgreen))
 
 ## 介绍
 
