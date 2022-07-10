@@ -30,8 +30,8 @@ F: I have some questions about Python. Can I ask the author?
 Q: Oh, I don't suggest you do that. After all, the author is not very professional. It's better to look it up online. There are many such answers online.
 
 ## Contact
-Wechat: 18331883250
-E-mail: Gprogrammer@163.com
+Wechat: 18331883250  
+E-mail: Gprogrammer@163.com  
 Github: [gpchn](https://github.com/gpchn/)
 
 ## Authors and acknowledgment
