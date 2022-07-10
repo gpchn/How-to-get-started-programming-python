@@ -1,6 +1,10 @@
 [中文](https://github.com/gpchn/How-to-get-started-programming-python/blob/main/README_zh.md) | [English](https://github.com/gpchn/How-to-get-started-programming-python/blob/main/README.md)
 # 如何入门Python编程
 
+![Github last commit](https://img.shields.io/github/last-commit/gpchn/How-to-get-started-programming-python)
+![Hex.pm](https://img.shields.io/hexpm/l/plug)
+![started date](https://img.shields.io/badge/started-date-2022-07-10-brightgreen)
+
 ## 介绍
 
 ### 概述
