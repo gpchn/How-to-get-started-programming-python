@@ -1,2 +1,2 @@
-[中文](https://gpchn.github.io/How-to-get-started-programming-python/README_zh.md)
+[中文](https://github.com/gpchn/How-to-get-started-programming-python/README_zh.md)
 # How-to-get-started-programming-python
