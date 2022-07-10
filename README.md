@@ -1,6 +1,13 @@
 [中文](https://github.com/gpchn/How-to-get-started-programming-python/blob/main/README_zh.md) | [English](https://github.com/gpchn/How-to-get-started-programming-python/blob/main/README.md) 
-# How-to-get-started-programming-python  
+
+# How-to-get-started-programming-python
+
+![Github last commit](https://img.shields.io/github/last-commit/gpchn/How-to-get-started-programming-python)
+![Hex.pm](https://img.shields.io/hexpm/l/plug)
+![started date](https://img.shields.io/badge/started%20date-2022%2007%2010-brightgreen)
+
 ## introduction
+
 ### Summary
 It is an ordinary introductory book of Python programming. 
 Not the best, but the most sincere. The author will try hi
