@@ -22,7 +22,7 @@ Q: 哦，我不建议你那样做，毕竟作者也不是很专业，不如上�
 ## 联系
 微信：18331883250  
 邮箱：Gprogrammer@163.com  
-GitHub：[gpchn](https://github.com/gpchn/)
+Github：[gpchn](https://github.com/gpchn/)
 
 ## 贡献者和鸣谢
 gpchn  
