@@ -25,9 +25,6 @@ Q: You are very welcome, but you can get a famous source. Please refer to the "L
   
 F: I have some questions that I don't understand or can't solve. Can I ask the author?  
 Q: Please look at the "Contact" below. The author will reply as soon as he sees it!
-  
-F: I have some questions about Python. Can I ask the author?  
-Q: Oh, I don't suggest you do that. After all, the author is not very professional. It's better to look it up online. There are many such answers online.
 
 ## Contact
 Wechat: 18331883250  
