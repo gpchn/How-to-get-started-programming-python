@@ -2,12 +2,36 @@
 # How-to-get-started-programming-python  
 ## introduction
 ### Summary
-It is an ordinary introductory book of Python programming. Not the best, but the most sincere. The author will try his best to give readers what he has learned and what he has trodden on. The author is also self-taught, knowing that self-study is not easy. I hope this book can make readers feel a little easier in their study.
-### Author 
-gpchn (github-programmer-from-China)  
-Gender Male♂  
-Now residence in Handan, Hebei  
+It is an ordinary introductory book of Python programming. 
+Not the best, but the most sincere. The author will try hi
+s best to give readers what he has learned and what he has 
+trodden on. The author is also self-taught, knowing that s
+elf-study is not easy. I hope this book can make readers f
+eel a little easier in their study.
+
+## FAQ
+F: Should I refer to other Python books?  
+Q: Of course. There are many better and more professional Python tutorial books than this one. My suggestion is to read them together.
+  
+F: Can I quote the contents of books?  
+Q: You are very welcome, but you can get a famous source. Please refer to the "License" at the bottom of the document for details.
+  
+F: I have some questions that I don't understand or can't solve. Can I ask the author?  
+Q: Please look at the "Contact" below. The author will reply as soon as he sees it!
+  
+F: I have some questions about Python. Can I ask the author?  
+Q: Oh, I don't suggest you do that. After all, the author is not very professional. It's better to look it up online. There are many such answers online.
+
+## Contact
+Wechat: 18331883250
+E-mail: Gprogrammer@163.com
+Github: [gpchn](https://github.com/gpchn/)
+
 ## Authors and acknowledgment
+gpchn  
+.  
+巴黎在逃圣母ᵀᴺᵀ  
+Kyrie
 
 ## License
 Copyright 2022 gpchn  
