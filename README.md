@@ -32,10 +32,17 @@ E-mail: Gprogrammer@163.com
 Github: [gpchn](https://github.com/gpchn/)
 
 ## Authors and acknowledgment
-gpchn  
-.  
-巴黎在逃圣母ᵀᴺᵀ  
-Kyrie
+### gpchn author
+> “感谢观看”  
+
+### 不想起床 tester
+> “承蒙厚爱请多关照”  
+
+### 巴黎在逃圣母ᵀᴺᵀ tester
+> “写的不错”  
+
+### Kyrie tester
+> “能”
 
 ## License
 Copyright 2022 gpchn  
