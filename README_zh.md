@@ -38,6 +38,9 @@ Github：[gpchn](https://github.com/gpchn/)
 ### Kyrie [^测试人员]
 > “能”
 
+[^作者]: 写这本书的人
+[^测试人员]: 校对内容并提出改进建议
+
 ## 版权声明
 Copyright 2022 gpchn  
   
