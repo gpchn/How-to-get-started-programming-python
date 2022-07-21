@@ -17,19 +17,19 @@ not easy. I hope this book can make readers feel a little
 easier in their study.
 
 ## FAQ
-F: Should I refer to other Python books?  
-Q: Of course. There are many better and more professional 
+Q: Should I refer to other Python books?  
+A: Of course. There are many better and more professional 
 Python tutorial books than this one. My suggestion is to 
 read them together.
   
-F: Can I quote the contents of books?  
-Q: You are very welcome, but you can get a famous source.
+Q: Can I quote the contents of books?  
+A: You are very welcome, but you can get a famous source.
 Please refer to the "License" at the bottom of the docume
 nt for details.
   
-F: I have some questions that I don't understand or can't
+Q: I have some questions that I don't understand or can't
 solve. Can I ask the author?  
-Q: Please look at the "Contact" below. The author will re
+A: Please look at the "Contact" below. The author will re
 ply as soon as he sees it!
 
 ## Contact
