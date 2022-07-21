@@ -1,5 +1,5 @@
 [中文](https://github.com/gpchn/How-to-get-started-programming-python/blob/main/README_zh.md) | [English](https://github.com/gpchn/How-to-get-started-programming-python/blob/main/README.md)
-# 如何入门Python编程
+# Python随笔
 
 ![Github last commit](https://img.shields.io/github/last-commit/gpchn/How-to-get-started-programming-python)
 ![Hex.pm](https://img.shields.io/hexpm/l/plug)
@@ -8,17 +8,19 @@
 ## 介绍
 
 ### 概述
-它是一本普通的Python编程入门书，不是最好的，但是最真诚的，作者会尽量把自己学过的东西、踩过的坑教给读者。作者也是自学的，深知自学不易，希望这本书能让读者在学习过程中轻松一点。
+它是一本普通的Python编程书，不是最好的，但是最真诚的，作者会尽量把自己
+学过的东西、踩过的坑教给读者。作者也是自学的，深知自学不易，希望这本书
+能让读者在学习过程中轻松一点。
 
 ## 常见问题
-F: 我是否应该参考其他Python书？  
-Q: 当然。有很多比这个更棒、更专业的Python教程书籍，我的建议是一起看。
+Q: 我是否应该参考其他Python书？  
+A: 当然。有很多比这个更棒、更专业的Python教程书籍，我的建议是一起看。
   
-F: 我是否可以引用书籍的内容？  
-Q: 非常欢迎，不过得著名出处，具体信息请看文档最下方的“版权声明”。
+Q: 我是否可以引用书籍的内容？  
+A: 非常欢迎，不过得著名出处，具体信息请看文档最下方的“版权声明”。
   
-F: 我有一些没看懂的地方或者解决不了的问题能不能问作者？  
-Q: 请看下面的“联系”，作者看到一定第一时间答复！
+Q: 我有一些没看懂的地方或者解决不了的问题能不能问作者？  
+A: 请看下面的“联系”，作者看到一定第一时间答复！
 
 ## 联系
 微信：18331883250  
