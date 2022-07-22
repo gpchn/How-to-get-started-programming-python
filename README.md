@@ -19,8 +19,8 @@ easier in their study.
 ## FAQ
 Q: Should I refer to other Python books?  
 A: Of course. There are many better and more professional 
-Python tutorial books than this one. My suggestion is to 
-read them together.
+Python books than this one. My suggestion is to read them
+together.
   
 Q: Can I quote the contents of books?  
 A: You are very welcome, but you can get a famous source.
